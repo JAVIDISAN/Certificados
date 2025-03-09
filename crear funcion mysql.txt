@@ -1,0 +1,149 @@
+DELIMITER $$
+CREATE FUNCTION geescolar.GETCAL_LETRAS3 (tipostr VARCHAR(5))
+RETURNS VARCHAR(10)
+BEGIN
+	DECLARE vResult VARCHAR(10);
+
+	   IF tipostr = '0' THEN 
+			SET  vResult = 'UNO'; 
+		ELSEIF tipostr = '1' THEN 
+			SET  vResult = 'UNO';
+		ELSEIF tipostr = '2' THEN 
+			SET  vResult = 'DOS';
+		ELSEIF tipostr = '3' THEN 
+			SET  vResult = 'TRES';
+		ELSEIF tipostr = '4' THEN 
+			SET  vResult = 'CUATRO';
+		ELSEIF tipostr = '5' THEN 
+			SET  vResult = 'CINCO';
+		ELSEIF tipostr = '6' THEN 
+			SET  vResult = 'SEIS';
+		ELSEIF tipostr = '7' THEN 
+			SET  vResult = 'SIETE';
+		ELSEIF tipostr = '8' THEN 
+			SET  vResult = 'OCHO';
+		ELSEIF tipostr = '9' THEN 
+			SET  vResult = 'NUEVE';
+		ELSEIF tipostr = '10' THEN 
+			SET  vResult = 'DIEZ';
+		ELSEIF tipostr = 'NP' THEN 
+			SET  vResult = 'NP';
+		ELSEIF tipostr = 'NA' THEN 
+			SET  vResult = 'NA';
+		ELSEIF tipostr = 'A' THEN 
+			SET  vResult = 'A'; 
+		END IF;
+
+	-- result
+    RETURN vResult;
+END $$
+DELIMITER ;
+
+DELIMITER $$
+CREATE FUNCTION geescolar.GetTipoExamen2(tipostr VARCHAR(30))
+RETURNS INT
+BEGIN
+	DECLARE vResult INT;
+
+	IF tipostr = 'ORDINARIO' THEN
+	  SET vResult = 1;
+	ELSE
+	  SET vResult = 2;
+	END IF;
+	-- result
+   RETURN vResult;
+
+END $$
+DELIMITER ;
+
+<div class="form-group row">
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" name="direccion_asistida" type="checkbox" id="lbl_da">
+          <label class="col-sm-2 form-check-label" for="lbl_da">
+            direccion asistida
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" name="abs" type="checkbox" id="lbl_abs">
+          <label class="col-sm-2 form-check-label" for="lbl_abs">
+            ABS
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" name="airbags" type="checkbox" id="lbl_airbags">
+          <label class="col-sm-2 form-check-label" for="lbl_airbags">
+            Airbags
+          </label>
+        </div>
+      </div>
+    </div>
+	
+	[{"aspirante_plantel":"311","aspirante_curp":"POGF690512MYNTMT13","carrera_descripcion":"Licenciatura en Educaci\u00f3n Preescolar Para El Medio Ind\u00edgena Plan 90","Carrera_creditos":416},{"aspirante_plantel":"311","aspirante_curp":"POGF690512MYNTMT13","carrera_descripcion":"Licenciatura en Educaci\u00f3n Preescolar Para El Medio Ind\u00edgena Plan 90","Carrera_creditos":411}]
+	
+	
+	/** @type {import('tailwindcss').Config} */
+export default {
+    content: [
+        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
+        './storage/framework/views/*.php',
+        './resources/views/**/*.blade.php',
+        "./node_modules/flowbite/**/*.js",
+    ],
+
+    darkMode: 'class',
+    theme: {
+        extend: {
+            colors: {
+                primary: {"50":"#eff6ff","100":"#dbeafe","200":"#bfdbfe","300":"#93c5fd","400":"#60a5fa","500":"#3b82f6","600":"#2563eb","700":"#1d4ed8","800":"#1e40af","900":"#1e3a8a","950":"#172554"},
+            },
+        },
+        fontFamily: {
+            'body': [
+        'Inter',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'system-ui',
+        'Segoe UI',
+        'Roboto',
+        'Helvetica Neue',
+        'Arial',
+        'Noto Sans',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+        'Noto Color Emoji'
+    ],
+            'sans': [
+        'Inter',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'system-ui',
+        'Segoe UI',
+        'Roboto',
+        'Helvetica Neue',
+        'Arial',
+        'Noto Sans',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+        'Noto Color Emoji',
+    ],
+    },
+  },
+    plugins: [forms,],
+};
