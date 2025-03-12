@@ -250,6 +250,8 @@ namespace AccesoBD
                 return;
             }
 
+            //comentario para checar los cambios en git
+
             if (datos.Length > 0 )
             {
                 if (datos[5] == "379" || datos[5] == "316" || datos[5] == "384" || datos[5] == "279" || datos[5] == "273" )
