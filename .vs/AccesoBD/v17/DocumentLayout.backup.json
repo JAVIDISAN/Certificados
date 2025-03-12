@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\",
+  "WorkspaceRootPath": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|c:\\users\\jadisan\\source\\repos\\certificados\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\Certificados\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\Certificados\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|c:\\users\\jadisan\\source\\repos\\accesobd\\models\\materiasparapromedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\Certificados\\models\\materiasparapromedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:models\\materiasparapromedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|c:\\users\\jadisan\\source\\repos\\accesobd\\models\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\Certificados\\models\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:models\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\models\\aspirante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|C:\\Users\\JADISAN\\source\\repos\\Certificados\\models\\aspirante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41217B50-33F8-412C-B0FC-E8A40C2526FB}|AccesoBD.csproj|solutionrelative:models\\aspirante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,42 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MateriasParaPromedio.cs",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\MateriasParaPromedio.cs",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\MateriasParaPromedio.cs",
               "RelativeDocumentMoniker": "Models\\MateriasParaPromedio.cs",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\MateriasParaPromedio.cs",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\MateriasParaPromedio.cs",
               "RelativeToolTip": "Models\\MateriasParaPromedio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:30:04.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T18:30:04.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-04T05:02:54.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:02:54.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAKEFAAAAAAAAAAAcwLAFAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAUwAYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T13:47:44.966Z",
               "EditorCaption": ""
@@ -78,35 +96,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Conversores.cs",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\Conversores.cs",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\Conversores.cs",
               "RelativeDocumentMoniker": "Models\\Conversores.cs",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\Conversores.cs",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\Conversores.cs",
               "RelativeToolTip": "Models\\Conversores.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAlwD8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:20:41.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T09:20:41.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\DBManager.cs",
               "RelativeDocumentMoniker": "DBManager.cs",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\DBManager.cs",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\DBManager.cs",
               "RelativeToolTip": "DBManager.cs",
-              "ViewState": "AgIAAMYCAAAAAAAAAAAcwM8CAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwM4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T13:44:47.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T13:44:47.529Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Aspirante.cs",
-              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\Aspirante.cs",
+              "DocumentMoniker": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\Aspirante.cs",
               "RelativeDocumentMoniker": "Models\\Aspirante.cs",
-              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\AccesoBD\\Models\\Aspirante.cs",
+              "ToolTip": "C:\\Users\\JADISAN\\source\\repos\\Certificados\\Models\\Aspirante.cs",
               "RelativeToolTip": "Models\\Aspirante.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

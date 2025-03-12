@@ -252,7 +252,7 @@ namespace AccesoBD
 
             if (datos.Length > 0 )
             {
-                if (datos[5] == "379" || datos[5] == "316" || datos[5] == "384" || datos[5] == "279")
+                if (datos[5] == "379" || datos[5] == "316" || datos[5] == "384" || datos[5] == "279" || datos[5] == "273" )
                 {
                     cmbNivel.SelectedIndex = 1;
                 }
